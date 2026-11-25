@@ -1,0 +1,53 @@
+# Agent orchestration and RAG
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langgraph
+langchain-nvidia-ai-endpoints
+
+# Vector store and hybrid dense + BM25 sparse retrieval
+qdrant-client
+langchain-qdrant
+fastembed
+rank-BM25
+
+# API services and streamed agent responses
+fastapi
+uvicorn[standard]
+sse-starlette
+python-multipart
+pydantic
+pydantic-settings
+python-dotenv
+
+# Web/HTTP request and production resilience
+httpx
+requests
+tenacity
+orjson
+
+# Documents, websites, and codebase ingestion
+pypdf
+python-docx
+beautifulsoup4
+lxml
+markdownify
+GitPython
+PyGithub
+tree-sitter
+tree-sitter-language-pack
+
+# LTI convolution simulation and plotting
+numpy
+matplotlib
+
+# Logging and token utilities
+structlog
+rich
+tiktoken
+
+# Testing and code quality
+pytest
+pytest-asyncio
+ruff
